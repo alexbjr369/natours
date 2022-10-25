@@ -12,7 +12,7 @@ A landing page developed to apply the knowledge studied in the course.
 
 <img src="https://github.com/alexbjr369/alexbjr369/blob/main/images/natours.png" alt="Natours">
 
-## Built With
+## [Built With](https://alexbleggi.netlify.app/docs/projects/natours#built-with)
 
 <div style="display: inline_block">
   <a href="https://en.bem.info/methodology" target="_blank">
