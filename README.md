@@ -1,6 +1,6 @@
 # Natours
 
-Project developed in the course **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
+Project developed in the course **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann)** on **[Udemy](https://www.udemy.com)**.
 
 ## About
 
